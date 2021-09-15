@@ -14,8 +14,11 @@ Generate random numbers with GUI.
 
 ## To test:
 
-- Linux: Run the installer wizard located in releases.
+
 
 ## Results:
 
-![euromilhoes](https://user-images.githubusercontent.com/63113730/130488854-c56e1135-143c-416b-9c85-c553bf2e0454.png)
+![screen_1](https://user-images.githubusercontent.com/63113730/133429140-a399945e-1512-418e-9056-12f54ca04315.png)
+![screen_2](https://user-images.githubusercontent.com/63113730/133429182-5ec37875-e253-43f0-aba0-75d7df466dcc.png)
+
+
