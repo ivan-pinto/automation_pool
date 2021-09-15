@@ -9,8 +9,9 @@ Automation of a pool.
 ## Tecnologies:
 
 - Schneider Electric M241
-- SoMachine
+- SoMachine & Vijeo Designer 
 - Ladder
+- Console HMIS5T
 
 ## To test:
 
