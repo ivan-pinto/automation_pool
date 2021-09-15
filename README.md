@@ -1,8 +1,8 @@
 # automation_pool
 
-Generate random numbers with GUI.
+Automation of a pool 
 
-![](https://img.shields.io/github/languages/count/ivan-pinto/automation_pool)
+
 ![](https://img.shields.io/github/repo-size/ivan-pinto/automation_pool)
 ![](https://img.shields.io/github/license/ivan-pinto/automation_pool)
 
