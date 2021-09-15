@@ -1,6 +1,6 @@
 # automation_pool
 
-Automation of a pool 
+Automation of a pool.
 
 
 ![](https://img.shields.io/github/repo-size/ivan-pinto/automation_pool)
