@@ -1,4 +1,3 @@
-![screen0](https://user-images.githubusercontent.com/63113730/133430611-d7ce5c4e-e3da-4ac1-8a40-680ef7322848.png)
 # automation_pool
 
 Automation of a pool.
